@@ -1,2 +1,2 @@
 # html-portfolio
-Simple Portfolio build using HTML 5 only.
+Simple Portfolio built using HTML 5 only.
